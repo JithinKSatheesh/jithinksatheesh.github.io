@@ -1,0 +1,7 @@
+.iconBox{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.769);
+    box-shadow: 10px 10px 10px rgba(89, 88, 88, 0.173);
+}

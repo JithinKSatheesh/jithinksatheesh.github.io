@@ -1,0 +1,42 @@
+.showcase{
+    width: 100%;
+    max-width: 600px;
+}
+
+.showCard{
+    position: relative;
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.769);
+    box-shadow: 20px 20px 20px rgba(41, 41, 41, 0.721);
+    border-radius: 10px;
+    transition: width 1s ease;
+}
+
+@media screen and (max-width:500px)
+{
+    .showCard{
+        width: 100%;
+    }
+}
+
+.showCard_no{
+    display: none;
+}
+
+.showCard_yes{
+    display: block;
+    width: 100%;
+}
+.width-100{
+    width: 100%;
+}
+
+.show_close{
+    position: absolute;
+    right: 0px;
+    top:-2px;
+    
+}
+.show_close:hover svg{
+    fill:rgb(255, 119, 0);
+}
