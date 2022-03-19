@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c11ab65.chunk.css",
+    "main.js": "/static/js/main.0051511e.chunk.js",
+    "main.js.map": "/static/js/main.0051511e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7e80684.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7e80684.js.map",
+    "static/js/2.5d89496a.chunk.js": "/static/js/2.5d89496a.chunk.js",
+    "static/js/2.5d89496a.chunk.js.map": "/static/js/2.5d89496a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5c467a1f8ad2feaf379aa3fa26b764bd.js": "/precache-manifest.5c467a1f8ad2feaf379aa3fa26b764bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1c11ab65.chunk.css.map": "/static/css/main.1c11ab65.chunk.css.map",
+    "static/js/2.5d89496a.chunk.js.LICENSE.txt": "/static/js/2.5d89496a.chunk.js.LICENSE.txt",
+    "static/media/Iconcss.png": "/static/media/Iconcss.a32f83aa.png",
+    "static/media/Iconillustrator.png": "/static/media/Iconillustrator.d9385765.png",
+    "static/media/Iconjs.png": "/static/media/Iconjs.e516e860.png",
+    "static/media/Iconnodejs.png": "/static/media/Iconnodejs.521444a2.png",
+    "static/media/Iconpremere.png": "/static/media/Iconpremere.fd5c871c.png",
+    "static/media/Iconreactjs.png": "/static/media/Iconreactjs.638be909.png",
+    "static/media/home.svg": "/static/media/home.9c5c6841.svg",
+    "static/media/iconXD.png": "/static/media/iconXD.3338afff.png",
+    "static/media/iconexpress.png": "/static/media/iconexpress.f8189825.png",
+    "static/media/iconmongodb.png": "/static/media/iconmongodb.fbb1b582.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.4a456260.svg",
+    "static/media/mail.svg": "/static/media/mail.69715ab3.svg",
+    "static/media/phone.svg": "/static/media/phone.6693d44f.svg",
+    "static/media/project1.png": "/static/media/project1.8ddad2cc.png",
+    "static/media/project_apple.png": "/static/media/project_apple.bb9c70a7.png",
+    "static/media/project_banzan.png": "/static/media/project_banzan.0aff7330.png",
+    "static/media/project_golden.png": "/static/media/project_golden.e61d5651.png",
+    "static/media/project_lawfirm.png": "/static/media/project_lawfirm.1a014911.png",
+    "static/media/project_palace.png": "/static/media/project_palace.183d3c4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e80684.js",
+    "static/js/2.5d89496a.chunk.js",
+    "static/css/main.1c11ab65.chunk.css",
+    "static/js/main.0051511e.chunk.js"
+  ]
+}

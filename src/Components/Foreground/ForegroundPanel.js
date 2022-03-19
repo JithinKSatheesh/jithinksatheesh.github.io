@@ -23,7 +23,7 @@ export default function Foregroundpanel(props) {
                     <div className="col col-12 col-md-6">
                         <div className="text-white h3">
                             Hi, <br/>
-                            I am JithinKSatheesh
+                            I am Jithin K Satheesh
                         </div>
                         <div className="space-20"></div>
                         <Widgets widgetbody={<Widget1/>}/>
